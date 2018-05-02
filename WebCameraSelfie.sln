@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCameraSelfie", "Spy\WebCameraSelfie.csproj", "{E10954C0-D8B7-4121-9B96-D05D641B5011}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCameraSelfie", "WebCameraSelfie\WebCameraSelfie.csproj", "{E10954C0-D8B7-4121-9B96-D05D641B5011}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
